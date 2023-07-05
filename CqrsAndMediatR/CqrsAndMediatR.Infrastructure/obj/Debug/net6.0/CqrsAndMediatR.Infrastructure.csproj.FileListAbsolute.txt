@@ -1,0 +1,15 @@
+F:\Dev\Programmation Languages\C#\CqrsAndMediatR\CqrsAndMediatR.Infrastructure\obj\Debug\net6.0\CqrsAndMediatR.Infrastructure.csproj.AssemblyReference.cache
+F:\Dev\Programmation Languages\C#\CqrsAndMediatR\CqrsAndMediatR.Infrastructure\obj\Debug\net6.0\CqrsAndMediatR.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+F:\Dev\Programmation Languages\C#\CqrsAndMediatR\CqrsAndMediatR.Infrastructure\obj\Debug\net6.0\CqrsAndMediatR.Infrastructure.AssemblyInfoInputs.cache
+F:\Dev\Programmation Languages\C#\CqrsAndMediatR\CqrsAndMediatR.Infrastructure\obj\Debug\net6.0\CqrsAndMediatR.Infrastructure.AssemblyInfo.cs
+F:\Dev\Programmation Languages\C#\CqrsAndMediatR\CqrsAndMediatR.Infrastructure\obj\Debug\net6.0\CqrsAndMediatR.Infrastructure.csproj.CoreCompileInputs.cache
+F:\Dev\Programmation Languages\C#\CqrsAndMediatR\CqrsAndMediatR.Infrastructure\bin\Debug\net6.0\CqrsAndMediatR.Infrastructure.deps.json
+F:\Dev\Programmation Languages\C#\CqrsAndMediatR\CqrsAndMediatR.Infrastructure\bin\Debug\net6.0\CqrsAndMediatR.Infrastructure.dll
+F:\Dev\Programmation Languages\C#\CqrsAndMediatR\CqrsAndMediatR.Infrastructure\bin\Debug\net6.0\CqrsAndMediatR.Infrastructure.pdb
+F:\Dev\Programmation Languages\C#\CqrsAndMediatR\CqrsAndMediatR.Infrastructure\bin\Debug\net6.0\CqrsAndMediatR.Domain.dll
+F:\Dev\Programmation Languages\C#\CqrsAndMediatR\CqrsAndMediatR.Infrastructure\bin\Debug\net6.0\CqrsAndMediatR.Domain.pdb
+F:\Dev\Programmation Languages\C#\CqrsAndMediatR\CqrsAndMediatR.Infrastructure\obj\Debug\net6.0\CqrsAndMediatR.Infrastructure.csproj.CopyComplete
+F:\Dev\Programmation Languages\C#\CqrsAndMediatR\CqrsAndMediatR.Infrastructure\obj\Debug\net6.0\CqrsAndMediatR.Infrastructure.dll
+F:\Dev\Programmation Languages\C#\CqrsAndMediatR\CqrsAndMediatR.Infrastructure\obj\Debug\net6.0\refint\CqrsAndMediatR.Infrastructure.dll
+F:\Dev\Programmation Languages\C#\CqrsAndMediatR\CqrsAndMediatR.Infrastructure\obj\Debug\net6.0\CqrsAndMediatR.Infrastructure.pdb
+F:\Dev\Programmation Languages\C#\CqrsAndMediatR\CqrsAndMediatR.Infrastructure\obj\Debug\net6.0\ref\CqrsAndMediatR.Infrastructure.dll

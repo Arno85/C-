@@ -1,0 +1,12 @@
+F:\Dev\Programmation Languages\C#\CqrsAndMediatR\CqrsAndMediatR.Domain\bin\Debug\net5.0\CqrsAndMediatR.Domain.deps.json
+F:\Dev\Programmation Languages\C#\CqrsAndMediatR\CqrsAndMediatR.Domain\bin\Debug\net5.0\CqrsAndMediatR.Domain.dll
+F:\Dev\Programmation Languages\C#\CqrsAndMediatR\CqrsAndMediatR.Domain\bin\Debug\net5.0\CqrsAndMediatR.Domain.pdb
+F:\Dev\Programmation Languages\C#\CqrsAndMediatR\CqrsAndMediatR.Domain\obj\Debug\net5.0\CqrsAndMediatR.Domain.csproj.AssemblyReference.cache
+F:\Dev\Programmation Languages\C#\CqrsAndMediatR\CqrsAndMediatR.Domain\obj\Debug\net5.0\CqrsAndMediatR.Domain.GeneratedMSBuildEditorConfig.editorconfig
+F:\Dev\Programmation Languages\C#\CqrsAndMediatR\CqrsAndMediatR.Domain\obj\Debug\net5.0\CqrsAndMediatR.Domain.AssemblyInfoInputs.cache
+F:\Dev\Programmation Languages\C#\CqrsAndMediatR\CqrsAndMediatR.Domain\obj\Debug\net5.0\CqrsAndMediatR.Domain.AssemblyInfo.cs
+F:\Dev\Programmation Languages\C#\CqrsAndMediatR\CqrsAndMediatR.Domain\obj\Debug\net5.0\CqrsAndMediatR.Domain.csproj.CoreCompileInputs.cache
+F:\Dev\Programmation Languages\C#\CqrsAndMediatR\CqrsAndMediatR.Domain\obj\Debug\net5.0\CqrsAndMediatR.Domain.dll
+F:\Dev\Programmation Languages\C#\CqrsAndMediatR\CqrsAndMediatR.Domain\obj\Debug\net5.0\refint\CqrsAndMediatR.Domain.dll
+F:\Dev\Programmation Languages\C#\CqrsAndMediatR\CqrsAndMediatR.Domain\obj\Debug\net5.0\CqrsAndMediatR.Domain.pdb
+F:\Dev\Programmation Languages\C#\CqrsAndMediatR\CqrsAndMediatR.Domain\obj\Debug\net5.0\ref\CqrsAndMediatR.Domain.dll

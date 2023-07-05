@@ -1,0 +1,15 @@
+F:\Dev\Programmation Languages\C#\HexagonalArchitectureTemplate\src\Adapter.Kafka\bin\Debug\net6.0\Adapter.Kafka.deps.json
+F:\Dev\Programmation Languages\C#\HexagonalArchitectureTemplate\src\Adapter.Kafka\bin\Debug\net6.0\Adapter.Kafka.dll
+F:\Dev\Programmation Languages\C#\HexagonalArchitectureTemplate\src\Adapter.Kafka\bin\Debug\net6.0\Adapter.Kafka.pdb
+F:\Dev\Programmation Languages\C#\HexagonalArchitectureTemplate\src\Adapter.Kafka\bin\Debug\net6.0\Core.dll
+F:\Dev\Programmation Languages\C#\HexagonalArchitectureTemplate\src\Adapter.Kafka\bin\Debug\net6.0\Core.pdb
+F:\Dev\Programmation Languages\C#\HexagonalArchitectureTemplate\src\Adapter.Kafka\obj\Debug\net6.0\Adapter.Kafka.csproj.AssemblyReference.cache
+F:\Dev\Programmation Languages\C#\HexagonalArchitectureTemplate\src\Adapter.Kafka\obj\Debug\net6.0\Adapter.Kafka.GeneratedMSBuildEditorConfig.editorconfig
+F:\Dev\Programmation Languages\C#\HexagonalArchitectureTemplate\src\Adapter.Kafka\obj\Debug\net6.0\Adapter.Kafka.AssemblyInfoInputs.cache
+F:\Dev\Programmation Languages\C#\HexagonalArchitectureTemplate\src\Adapter.Kafka\obj\Debug\net6.0\Adapter.Kafka.AssemblyInfo.cs
+F:\Dev\Programmation Languages\C#\HexagonalArchitectureTemplate\src\Adapter.Kafka\obj\Debug\net6.0\Adapter.Kafka.csproj.CoreCompileInputs.cache
+F:\Dev\Programmation Languages\C#\HexagonalArchitectureTemplate\src\Adapter.Kafka\obj\Debug\net6.0\Adapter.Kafka.csproj.CopyComplete
+F:\Dev\Programmation Languages\C#\HexagonalArchitectureTemplate\src\Adapter.Kafka\obj\Debug\net6.0\Adapter.Kafka.dll
+F:\Dev\Programmation Languages\C#\HexagonalArchitectureTemplate\src\Adapter.Kafka\obj\Debug\net6.0\refint\Adapter.Kafka.dll
+F:\Dev\Programmation Languages\C#\HexagonalArchitectureTemplate\src\Adapter.Kafka\obj\Debug\net6.0\Adapter.Kafka.pdb
+F:\Dev\Programmation Languages\C#\HexagonalArchitectureTemplate\src\Adapter.Kafka\obj\Debug\net6.0\ref\Adapter.Kafka.dll

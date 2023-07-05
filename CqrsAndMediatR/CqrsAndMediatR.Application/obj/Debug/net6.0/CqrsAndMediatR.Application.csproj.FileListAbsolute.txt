@@ -1,0 +1,17 @@
+F:\Dev\Programmation Languages\C#\CqrsAndMediatR\CqrsAndMediatR.Application\obj\Debug\net6.0\CqrsAndMediatR.Application.csproj.AssemblyReference.cache
+F:\Dev\Programmation Languages\C#\CqrsAndMediatR\CqrsAndMediatR.Application\obj\Debug\net6.0\CqrsAndMediatR.Application.GeneratedMSBuildEditorConfig.editorconfig
+F:\Dev\Programmation Languages\C#\CqrsAndMediatR\CqrsAndMediatR.Application\obj\Debug\net6.0\CqrsAndMediatR.Application.AssemblyInfoInputs.cache
+F:\Dev\Programmation Languages\C#\CqrsAndMediatR\CqrsAndMediatR.Application\obj\Debug\net6.0\CqrsAndMediatR.Application.AssemblyInfo.cs
+F:\Dev\Programmation Languages\C#\CqrsAndMediatR\CqrsAndMediatR.Application\obj\Debug\net6.0\CqrsAndMediatR.Application.csproj.CoreCompileInputs.cache
+F:\Dev\Programmation Languages\C#\CqrsAndMediatR\CqrsAndMediatR.Application\bin\Debug\net6.0\CqrsAndMediatR.Application.deps.json
+F:\Dev\Programmation Languages\C#\CqrsAndMediatR\CqrsAndMediatR.Application\bin\Debug\net6.0\CqrsAndMediatR.Application.dll
+F:\Dev\Programmation Languages\C#\CqrsAndMediatR\CqrsAndMediatR.Application\bin\Debug\net6.0\CqrsAndMediatR.Application.pdb
+F:\Dev\Programmation Languages\C#\CqrsAndMediatR\CqrsAndMediatR.Application\bin\Debug\net6.0\CqrsAndMediatR.Domain.dll
+F:\Dev\Programmation Languages\C#\CqrsAndMediatR\CqrsAndMediatR.Application\bin\Debug\net6.0\CqrsAndMediatR.Infrastructure.dll
+F:\Dev\Programmation Languages\C#\CqrsAndMediatR\CqrsAndMediatR.Application\bin\Debug\net6.0\CqrsAndMediatR.Domain.pdb
+F:\Dev\Programmation Languages\C#\CqrsAndMediatR\CqrsAndMediatR.Application\bin\Debug\net6.0\CqrsAndMediatR.Infrastructure.pdb
+F:\Dev\Programmation Languages\C#\CqrsAndMediatR\CqrsAndMediatR.Application\obj\Debug\net6.0\CqrsAndMediatR.Application.csproj.CopyComplete
+F:\Dev\Programmation Languages\C#\CqrsAndMediatR\CqrsAndMediatR.Application\obj\Debug\net6.0\CqrsAndMediatR.Application.dll
+F:\Dev\Programmation Languages\C#\CqrsAndMediatR\CqrsAndMediatR.Application\obj\Debug\net6.0\refint\CqrsAndMediatR.Application.dll
+F:\Dev\Programmation Languages\C#\CqrsAndMediatR\CqrsAndMediatR.Application\obj\Debug\net6.0\CqrsAndMediatR.Application.pdb
+F:\Dev\Programmation Languages\C#\CqrsAndMediatR\CqrsAndMediatR.Application\obj\Debug\net6.0\ref\CqrsAndMediatR.Application.dll

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "859CzdSyNOA5SoGThUZ5HHWV0MXQcmFV/y5b2W438B6/oQFyRtxHIOkOKd64Ydlzp7+lqPGai5JavQ5wHCkNRA==",
+  "success": true,
+  "projectFilePath": "F:\\Dev\\Programmation Languages\\C#\\Linq\\Linq.App\\Linq.App.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\arnau\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.30\\microsoft.netcore.app.host.win-x64.3.1.30.nupkg.sha512"
+  ],
+  "logs": []
+}
