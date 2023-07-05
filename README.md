@@ -1,5 +1,11 @@
 # C#
 
+## Architectures
+
+### Hexagonal Architecture
+
+[See more](./HexagonalArchitectureTemplate)
+
 ## Design Patterns
 
 ### Singleton
