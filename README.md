@@ -4,7 +4,11 @@
 
 ### Hexagonal Architecture
 
-[See more](./HexagonalArchitectureTemplate)
+[See more](./Architectures/HexagonalArchitectureTemplate)
+
+### Vertical Slice Architecture
+
+[See more](./Architectures/VerticalSliceArchitectureTemplate)
 
 ## Design Patterns
 
